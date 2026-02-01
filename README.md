@@ -37,6 +37,7 @@ This is my **first complete project uploaded to GitHub**, created to practice:
 ```bash
 git clone https://github.com/William-W2/terminal-pacman.git
 cd terminal-pacman
+```
 
 ### 2️⃣ Install dependencies
 pip install -r requirements.txt
