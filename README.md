@@ -48,11 +48,13 @@ python main.py
 ## 💡 Recommended to run in macOS or Linux terminal.
 
 ## 📁 Project Structure
+```text
 terminal-pacman/
 ├── main.py           # Main game logic
 ├── README.md         # Project documentation
 ├── requirements.txt  # Python dependencies
 └── .gitignore        # Git ignore rules
+```
 
 ## 🛠️ Tech Stack
 
